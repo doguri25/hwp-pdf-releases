@@ -3,7 +3,8 @@
 한글(hwp·hwpx) 파일을 PDF로 바꾸는 Mac·Windows 앱 **한글PDF**의 설치 파일을 올려 두는 곳입니다.
 [Releases](https://github.com/doguri25/hwp-pdf-releases/releases/latest)에서 받으세요.
 
-- Mac(인텔·애플 실리콘): `HwpPdf_버전_mac.dmg`
+- Mac 애플 실리콘(M1 이후): `HwpPdf_버전_mac_arm64.dmg`
+- Mac 인텔: `HwpPdf_버전_mac_intel.dmg`
 - Windows(64비트): `HwpPdf_버전_windows_x64-setup.exe`
 
 설치한 앱은 켤 때 새 버전을 확인해 스스로 업데이트합니다.
